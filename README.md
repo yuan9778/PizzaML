@@ -6,11 +6,7 @@ Details of this project can be found via link below:
 
 http://cs75.tv/2012/summer/#about,projects
 
-Tools used in this project:
+Tools used in this project: html, css, bootstrap, php, apache, javascript
 
-html, css, bootstrap, php, apache, javascript
-
-Try it out at the following website:
-
-http://sanqingyuan.info/PizzaML/
+Try it out: http://sanqingyuan.info/PizzaML/
 
