@@ -7,6 +7,7 @@ This is projetc0 of [CS E-75: Building Dynamic Websites](http://cs75.tv/2012/sum
 **Tools used in this project:**
 * html
 * css
+* XML, simpleXML
 * bootstrap
 * php
 * apache
