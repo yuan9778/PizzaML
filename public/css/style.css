@@ -28,40 +28,40 @@ footer a:hover {
 }
 
 .items {
-	margin: 25px;
-	border-width: 1px;
-	border-color: #E6E6E6;
-	border-top-style: solid;
-	border-bottom-style: solid;	
-	display: flex;
-	align-items: center;
+  margin: 25px;
+  border-width: 1px;
+  border-color: #E6E6E6;
+  border-top-style: solid;
+  border-bottom-style: solid;	
+  display: flex;
+  align-items: center;
 }
 
 .current-cat {
-	color: #FFCC66;
+  color: #FFCC66;
 }
 
 ul.align {
-	padding-left: 0;
-	list-style-type: none; 
-	font-size: 18px; 
-	text-align: left;
+  padding-left: 0;
+  list-style-type: none; 
+  font-size: 18px; 
+  text-align: left;
 }
 
 .form-font-style {
-	font-size: 16px;
+  font-size: 16px;
 }
 
 .order-format {
-	position: relative;
-	left: 40px;
+  position: relative;
+  left: 40px;
 }
 
 .nav-format {
-	position: relative;
-	left: 10px;
+  position: relative;
+  left: 10px;
 }
 
 span.glyphicon-size {
-    font-size: 2em;
+  font-size: 2em;
 }
