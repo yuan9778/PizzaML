@@ -1,8 +1,8 @@
 <?php
-	// load functions
+    // load functions
     require('../functions/functions.php');
 
-	// this is the main controller that handle the request from URL
+    // this is the main controller that handle the request from URL
     if (isset($_GET['para1'])) {
         $cat   = $_GET['para2'];
         $cat   = str_replace('-', ' ', $cat);
