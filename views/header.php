@@ -20,20 +20,19 @@
   </head>
   
   <body>
-	  
-	<!--for banner -->
-	<div class="container">
-		<dir class="row">
-		  <div class="well well-sm">
-				<img src="../img_and_icon/3aces.jpg" class="img-rounded" alt="three aces" width="50" height="50">
-				<a href="/" style="font-size: 30px; color:#CC6699; vertical-align: middle"><strong>&nbspThree Aces</strong></a>
-				<a href="/shopping_cart.php" style="float: right">
-					<span class="glyphicon glyphicon-size glyphicon-shopping-cart"></span>
-					<span style="font-size: 28px; color: black"><strong>&nbsp$<?= number_format(total(), 2) ?></strong></span>
-				</a>
-		  </div> 
-		 </dir>
+    <!--for banner -->
+    <div class="container">
+	<dir class="row">
+	    <div class="well well-sm">
+                <img src="../img_and_icon/3aces.jpg" class="img-rounded" alt="three aces" width="50" height="50">
+		    <a href="/" style="font-size: 30px; color:#CC6699; vertical-align: middle"><strong>&nbspThree Aces</strong></a>
+		    <a href="/shopping_cart.php" style="float: right">
+			<span class="glyphicon glyphicon-size glyphicon-shopping-cart"></span>
+			<span style="font-size: 28px; color: black"><strong>&nbsp$<?= number_format(total(), 2) ?></strong></span>
+	           </a>
+	    </div> 
 	</dir>
+    </dir>
 	
-	<!--render menu -->
-     <?php (isset($title)) ? load_menu($title) : load_menu() ?>
+  <!--render menu -->
+  <?php (isset($title)) ? load_menu($title) : load_menu() ?>
