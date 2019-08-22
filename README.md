@@ -12,4 +12,4 @@ This is projetc0 of [CS E-75: Building Dynamic Websites](http://cs75.tv/2012/sum
 * apache
 * javascript
 
-Try it out here: [PizzaML](http://sanqingyuan.info/PizzaML/)
+Try it out here: [PizzaML](http://sanqing-yuan.info/PizzaML/)
